@@ -1,0 +1,10 @@
+* petit.string-utils
+
+A toolbox Common Lisp about string modification
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/ichimal/petit.string-utils.git   |
+| commit  | e07782b  |
+| systems | petit.string-utils |
+|---------+-------------------------------------------|
+
